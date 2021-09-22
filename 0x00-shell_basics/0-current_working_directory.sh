@@ -1,5 +1,2 @@
 #!/bin/bash
-testfunction(){
-   echo "$PWD"
-}
-testfunction
+echo "$PWD"
